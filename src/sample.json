@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title": "aliens",
+        "director": "james cameron",
+        "anio": "1985",
+        "rating": "8.5"
+    },
+    {
+        "id": "2",
+        "title": "Sonic",
+        "director": "Luisito cameron",
+        "anio": "2020",
+        "rating": "10"
+    }
+]
